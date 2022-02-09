@@ -1,0 +1,12 @@
+h1.my{
+    background-color: aquamarine;
+    border-style: double;
+    border-width: medium;
+    text-align: center;
+    color:darkgreen;
+}
+p.one{
+    color:black;
+    text-align: center;
+    font-size: 20px;
+}
